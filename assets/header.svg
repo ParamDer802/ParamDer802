@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+  <title id="title">ParamDer802 — Practical ideas, thoughtful software</title>
+  <desc id="desc">Web applications, computer vision and useful interfaces.</desc>
+  <rect width="1600" height="400" rx="26" fill="#102e2b"/>
+  <path d="M1100 0h500v400h-280Z" fill="#1d443b"/>
+  <path d="m1420 0 180 0v400h-50Z" fill="#2a5b48"/>
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="78" y="78" fill="#b5ce9d" font-size="20" letter-spacing="5">BUILD · LEARN · IMPROVE</text>
+    <text x="72" y="185" fill="#ffffff" font-size="88" font-weight="700">ParamDer802</text>
+    <text x="78" y="254" fill="#e1eae2" font-size="33">Practical ideas. Thoughtful software.</text>
+    <text x="78" y="320" fill="#acc5bb" font-size="23">Web applications · Computer vision · Useful interfaces</text>
+  </g>
+  <g fill="none" stroke="#b5ce9d" stroke-width="9" stroke-linecap="round" stroke-linejoin="round">
+    <path d="m1240 150-60 50 60 50M1370 150l60 50-60 50M1338 124l-66 152"/>
+  </g>
+</svg>
