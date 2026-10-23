@@ -4,7 +4,21 @@
 
 I’m building practical web applications and exploring how computer vision can improve everyday workflows. My current work brings together responsive interfaces, on-device processing, and reliable data handling.
 
-## Featured project
+## Featured projects
+
+### [ForexEdge Pro](https://github.com/ParamDer802/forexedge-pro)
+
+**Currency conversion, clearly.**
+
+A Java-powered currency conversion demo with 15 simulated currencies, transparent fee calculations, multi-currency comparisons, and dark/light themes. Built with **Java, vanilla JavaScript, HTML and CSS**, with automated checks on Windows and Linux.
+
+<a href="https://github.com/ParamDer802/forexedge-pro">
+  <img src="https://raw.githubusercontent.com/ParamDer802/forexedge-pro/main/docs/banner.svg" alt="ForexEdge Pro — Currency conversion, clearly." width="100%">
+</a>
+
+[Explore the project](https://github.com/ParamDer802/forexedge-pro) · [See the dashboard](https://github.com/ParamDer802/forexedge-pro#preview) · [Run it locally](https://github.com/ParamDer802/forexedge-pro#quick-start)
+
+*Demo rates, explicit session history, and 15 regression tests.*
 
 ### [ENROLL-AI](https://github.com/ParamDer802/Enroll-AI)
 
@@ -21,6 +35,7 @@ An AIML Group 3 project for roster import, guided camera capture, photo-quality 
 ## What I’m working with
 
 - **Interfaces:** React, TypeScript, JavaScript, HTML and CSS.
+- **Backend development:** Java HTTP APIs and Python launch tooling.
 - **Computer vision:** MediaPipe face detection and practical image-quality checks.
 - **Browser applications:** IndexedDB, offline PWA workflows and camera integration.
 - **Development:** Git, Vite, Vitest and Playwright.
@@ -33,6 +48,6 @@ An AIML Group 3 project for roster import, guided camera capture, photo-quality 
 
 ## Around this profile
 
-Alongside ENROLL-AI, my repositories include earlier business-website experiments for Hind Group Upleta. I’m organizing this work to make each project’s purpose, setup and current status easier to understand.
+Alongside ENROLL-AI and ForexEdge Pro, my repositories include earlier business-website experiments for Hind Group Upleta. I’m organizing this work to make each project’s purpose, setup and current status easier to understand.
 
 [Browse my repositories](https://github.com/ParamDer802?tab=repositories)
