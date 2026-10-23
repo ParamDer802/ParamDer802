@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1024" height="1024" viewBox="0 0 1024 1024" role="img" aria-labelledby="title">
+  <title id="title">Param Der — PD monogram</title>
+  <rect width="1024" height="1024" fill="#111916"/>
+  <g fill="#f1f2e9" fill-rule="evenodd">
+    <path d="M229 331H370C460 331 504 376 504 451C504 527 456 570 370 570H309V693H229Z M309 405V496H366C406 496 425 480 425 451C425 422 406 405 366 405Z"/>
+    <path d="M548 331H648C758 331 815 398 815 512C815 626 758 693 648 693H548Z M628 407V617H646C706 617 734 581 734 512C734 443 706 407 646 407Z"/>
+  </g>
+  <circle cx="785" cy="267" r="17" fill="#c9e3a4"/>
+</svg>
