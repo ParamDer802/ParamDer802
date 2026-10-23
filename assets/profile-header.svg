@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="300" viewBox="0 0 1440 300" role="img" aria-labelledby="title desc">
+  <title id="title">ParamDer802 — Selected projects</title>
+  <desc id="desc">Web applications, computer vision, and Java. ENROLL-AI and ForexEdge Pro.</desc>
+  <rect width="1440" height="300" rx="14" fill="#111916"/>
+  <path d="M48 46h28" stroke="#c9e3a4" stroke-width="3"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <text x="90" y="51" fill="#a4b6a9" font-size="12" letter-spacing="2.4">SELECTED PROJECTS</text>
+    <text x="47" y="161" fill="#f1f2e9" font-size="84" font-weight="700" letter-spacing="-3.5">ParamDer802</text>
+    <text x="52" y="222" fill="#bbc8bb" font-size="21">Web applications / Computer vision / Java</text>
+    <path d="M934 57v183" stroke="#354239"/>
+    <g fill="#8da48e" font-size="12" letter-spacing="1"><text x="980" y="89">01</text><text x="980" y="185">02</text></g>
+    <g fill="#e6ebdf" font-size="23" font-weight="700"><text x="1026" y="92">ENROLL-AI</text><text x="1026" y="188">ForexEdge Pro</text></g>
+    <g fill="#93a595" font-size="14"><text x="1026" y="119">Student photo workflow</text><text x="1026" y="215">Currency conversion demo</text></g>
+    <path d="M980 145h405" stroke="#2e3d32"/>
+  </g>
+  <path d="M51 269h1334" stroke="#2e3d32"/>
+</svg>

@@ -1,5 +1,5 @@
 <p>
-  <img src="assets/header.svg" alt="ParamDer802 — Selected projects: ENROLL-AI and ForexEdge Pro" width="100%">
+  <img src="assets/profile-header.svg" alt="ParamDer802 — Selected projects: ENROLL-AI and ForexEdge Pro" width="100%">
 </p>
 
 Two projects I’m working on: a browser-based student photo workflow and a Java currency converter.
