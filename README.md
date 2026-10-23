@@ -1,53 +1,37 @@
-<p align="center">
-  <img src="assets/header.svg" alt="ParamDer802 — Practical ideas, thoughtful software" width="100%">
+<p>
+  <img src="assets/header.svg" alt="ParamDer802 — Selected projects: ENROLL-AI and ForexEdge Pro" width="100%">
 </p>
 
-I’m building practical web applications and exploring how computer vision can improve everyday workflows. My current work brings together responsive interfaces, on-device processing, and reliable data handling.
+Two projects I’m working on: a browser-based student photo workflow and a Java currency converter.
 
-## Featured projects
-
-### [ForexEdge Pro](https://github.com/ParamDer802/forexedge-pro)
-
-**Currency conversion, clearly.**
-
-A Java-powered currency conversion demo with 15 simulated currencies, transparent fee calculations, multi-currency comparisons, and dark/light themes. Built with **Java, vanilla JavaScript, HTML and CSS**, with automated checks on Windows and Linux.
-
-<a href="https://github.com/ParamDer802/forexedge-pro">
-  <img src="https://raw.githubusercontent.com/ParamDer802/forexedge-pro/main/docs/banner.svg" alt="ForexEdge Pro — Currency conversion, clearly." width="100%">
-</a>
-
-[Explore the project](https://github.com/ParamDer802/forexedge-pro) · [See the dashboard](https://github.com/ParamDer802/forexedge-pro#preview) · [Run it locally](https://github.com/ParamDer802/forexedge-pro#quick-start)
-
-*Demo rates, explicit session history, and 15 regression tests.*
-
-### [ENROLL-AI](https://github.com/ParamDer802/Enroll-AI)
-
-**From enrollment list to ready-to-use student photos.**
-
-An AIML Group 3 project for roster import, guided camera capture, photo-quality checks, operator review and enrollment-named exports. Built with **React, TypeScript, MediaPipe and IndexedDB**.
+## 01 / ENROLL-AI
 
 <a href="https://github.com/ParamDer802/Enroll-AI">
-  <img src="https://raw.githubusercontent.com/ParamDer802/Enroll-AI/main/docs/images/dashboard.png" alt="ENROLL-AI student capture dashboard" width="100%">
+  <img src="https://raw.githubusercontent.com/ParamDer802/Enroll-AI/main/docs/images/poster.svg" alt="ENROLL-AI — Student photo capture and enrollment management" width="100%">
 </a>
 
-[Explore the project](https://github.com/ParamDer802/Enroll-AI) · [See the AI pipeline](https://github.com/ParamDer802/Enroll-AI/blob/main/docs/AI_PIPELINE.md) · [Run it locally](https://github.com/ParamDer802/Enroll-AI#run-locally)
+Import a roster, capture photos with on-device quality checks, review each image, and export files named by enrollment number. The operator verifies the student; the model checks the frame.
 
-## What I’m working with
+**React · TypeScript · MediaPipe · IndexedDB**
 
-- **Interfaces:** React, TypeScript, JavaScript, HTML and CSS.
-- **Backend development:** Java HTTP APIs and Python launch tooling.
-- **Computer vision:** MediaPipe face detection and practical image-quality checks.
-- **Browser applications:** IndexedDB, offline PWA workflows and camera integration.
-- **Development:** Git, Vite, Vitest and Playwright.
+AIML Group 3 project. Photos and records stay in the browser unless exported.
 
-## Current focus
+[Repository](https://github.com/ParamDer802/Enroll-AI) · [Screenshots](https://github.com/ParamDer802/Enroll-AI#see-the-app) · [Capture pipeline](https://github.com/ParamDer802/Enroll-AI/blob/main/docs/AI_PIPELINE.md)
 
-- Making computer-vision tools useful and understandable to the people operating them.
-- Building dependable workflows around persistence, errors and recovery.
-- Improving project documentation, testing and responsive design.
+## 02 / ForexEdge Pro
 
-## Around this profile
+<a href="https://github.com/ParamDer802/forexedge-pro">
+  <img src="https://raw.githubusercontent.com/ParamDer802/forexedge-pro/main/docs/banner.svg" alt="ForexEdge Pro — Currency conversion with fee simulation" width="100%">
+</a>
 
-Alongside ENROLL-AI and ForexEdge Pro, my repositories include earlier business-website experiments for Hind Group Upleta. I’m organizing this work to make each project’s purpose, setup and current status easier to understand.
+Convert between 15 currencies, adjust the markup, and compare the amount you receive. A small Java HTTP API handles validation, calculations, and saved conversions.
 
-[Browse my repositories](https://github.com/ParamDer802?tab=repositories)
+**Java · JavaScript · HTML/CSS · Python**
+
+Simulated rates and session-only history. Automated checks run on Windows and Linux.
+
+[Repository](https://github.com/ParamDer802/forexedge-pro) · [Screenshots](https://github.com/ParamDer802/forexedge-pro#preview) · [Run locally](https://github.com/ParamDer802/forexedge-pro#quick-start)
+
+---
+
+**Other work:** earlier business-website projects for Hind Group Upleta are in [my repositories](https://github.com/ParamDer802?tab=repositories).
